@@ -1,0 +1,8 @@
+{
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@color-accent-rgb-d": "92, 153, 124",
+  "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
+  "sanctum@@file-line-width": 46,
+  "sanctum@@active-line-accent": "rgba(var(--color-accent-rgb), .3)",
+  "sanctum@@nav-folder-indicators": true
+}

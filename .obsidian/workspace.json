@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "0aa1ddfe58ad0f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a76aeef11b8141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e62cab65ca214d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referencing, Tagging and Linking Notes..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Referencing, Tagging and Linking Notes."
+            }
+          },
+          {
+            "id": "b5505e4c382d60ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Knowledge Management..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Knowledge Management."
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d85e0576f86081",
+    "type": "split",
+    "children": [
+      {
+        "id": "b89a64e793b8a007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8409e4871479a1fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bcf725dbb726f2c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#PKM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bc0740fe64291f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1cb3653d60f1c4eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a99f4de804535c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6153a91e4232b31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "857ac3cac97014de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Course/How the course will work..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How the course will work."
+            }
+          },
+          {
+            "id": "eb2635c37bebf4b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linux."
+            }
+          },
+          {
+            "id": "68931ccc655282a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Course/How the course will work..md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How the course will work."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b5505e4c382d60ae",
+  "lastOpenFiles": [
+    "Referencing, Tagging and Linking Notes..md",
+    "Personal Knowledge Management..md",
+    "OB Keybinds..md",
+    "Board Of Tags..md",
+    "Archive/Low-Level/Low Level..md",
+    "Archive/Low-Level/C++ Map..md",
+    "Archive/Low-Level/C++ Basics..md",
+    "Archive/resource.md",
+    "Archive/projects..md",
+    "Archive/Plan..md",
+    "Archive/Media..md",
+    "Archive/App Studio..md",
+    "Archive/AI..md",
+    "NeoVim..md",
+    "Javascript/Basics..md",
+    "Skincare..md",
+    "Messaging App./Tasks..md",
+    "Javascript",
+    "Fundamentals..md",
+    "Javascript",
+    "Messaging App./Resource..md",
+    "Messaging App.",
+    "Course/How the course will work..md",
+    "Archive/Low-Level",
+    "Archive",
+    "Course",
+    "Archive/Excalidraw/appstudio-page..md",
+    "Archive/Excalidraw/appstudio-chart..md",
+    "Excalidraw/Drawing 2024-10-23 02.55.31.excalidraw.md",
+    "Archive/Excalidraw",
+    "Tasks..md",
+    "Linux..md",
+    "Map..md",
+    "01 Notes",
+    "02 Journal",
+    "04 Trash/Notes",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "05 Miscellaneous/Attachments/chatgo-q8vqi6imjpifbc4fl8pwubuarisujo5b8pf1wzzzyc.png"
+  ]
+}
