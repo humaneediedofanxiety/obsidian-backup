@@ -6,5 +6,6 @@
   "focusNewTab": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "trashOption": "local"
 }
