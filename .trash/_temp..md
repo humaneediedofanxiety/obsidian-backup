@@ -1,0 +1,15 @@
+[Free Productivity Masterclass](https://youtu.be/R8eFpQuj34Q?si=xX_aATmD4TiDn-4G)
+[How to enter a flow state on command (in 78 seconds)](https://youtu.be/aQwml5iHhc8?si=Y2e4nhvGggSR_fDs)
+[A few words to self taught programmers](https://youtu.be/FrFY6Y1MJBQ?si=HLAkgNvMuBL7jFZG)
+[Why AI is making software development skills more valuable, not less](https://youtu.be/FXjf9OQGAlY?si=wV7xyEoJdjY1JRnZ)
+[Genius & Easily Raising Your IQ](https://youtu.be/WpIhPIiVtOo?si=5Cp-CthOaydeDvnt)
+[David Foster Wallace and the problem of loneliness](https://youtu.be/FCfpOugmd9E?feature=shared)
+[How to focus for 8+ hours a day (explained in 108 seconds)](https://youtu.be/BDEHLn2EpoM?si=ErrbAf1pLHA6fJR4)
+[One year of studying (it was a mistake)](https://youtu.be/dk3dQf7yZFI?si=rwwNUnikgPjoCX0A)
+[31 Life-Changing Philosophy Books in 48 Minutes](https://youtu.be/PTXKzvmF0Sw?si=qUO8hd9-B8A5wk2z)
+[How to Master Anything in Life](https://www.youtube.com/watch?v=GCfhcYg3jXc&list=WL&index=50)
+[Why you can't get anything done in life.](https://www.youtube.com/watch?v=m-7NyTa_N-M&list=WL&index=63)
+[My 5-minute will give you unlimited discipline.](https://youtu.be/TdAb1yqSk1g?si=NXAAdphmAhFWrCua)
+[Why we can't focus](https://youtu.be/6QltxZ-vPMc?si=DzEjKnEd80D_SxLN)
+
+
