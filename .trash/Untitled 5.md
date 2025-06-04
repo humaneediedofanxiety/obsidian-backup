@@ -1,0 +1,5 @@
+Recently I have become too happy, I need to make myself miserable again, I need more work pressure and more fucking solitude, it's not enough. Let's not talk too much about it as I know for certain tomorrow will be a tough day.
+
+Today was a very average day, I didn't do much work but I did alright and I went to coaching and I had a little bit of fun oh fuck I may have overdone things and I may have let myself go and have a little bit too much fun, it's okay I will be in control the next time.
+
+I barely have anything to talk today, I want to spend time alone yet I can't because I have a girl to love and honestly she makes me happy and a bit too much it's almost nauseating, I don't like it and I hate myself for not liking it, I'll still try to find some alone time and I will wake up in the morning and exercise. Oh fuck I need to watch a movie.

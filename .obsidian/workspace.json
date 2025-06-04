@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5530eba0252dffc",
+        "id": "e4fee35739a2d934",
         "type": "tabs",
         "children": [
           {
-            "id": "b703e6ce8f5f8eec",
+            "id": "560dc4ac913c094a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,91 +22,21 @@
             }
           },
           {
-            "id": "6693fac9bb7e2e5d",
+            "id": "c0db6b2efeecbe5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-minute system for unlimited discipline..md",
+                "file": "How to become a powerlifer..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-minute system for unlimited discipline."
+              "title": "How to become a powerlifer."
             }
           },
           {
-            "id": "292e0a978fd29706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to enter a flow state on command..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to enter a flow state on command."
-            }
-          },
-          {
-            "id": "2c41fef1fdb7c73d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to focus for 8+ hours a day..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to focus for 8+ hours a day."
-            }
-          },
-          {
-            "id": "aae6d63f4399591d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to work right after waking up..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to work right after waking up."
-            }
-          },
-          {
-            "id": "c3bf00e3eb8bd01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to master anything in life..md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to master anything in life."
-            }
-          },
-          {
-            "id": "4d56fd2ab2993524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to easily raise your intelligence..md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to easily raise your intelligence."
-            }
-          },
-          {
-            "id": "e9ebb9411d8fb525",
+            "id": "809073f1978cc8df",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -118,119 +48,101 @@
             }
           },
           {
-            "id": "8ad1650ca5372938",
+            "id": "0dfcef602ab59831",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Complex Mathematics & Application In Computer.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Complex Mathematics & Application In Computer"
+            }
+          },
+          {
+            "id": "91f72a0c9458f49e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "The functional strength training program..md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "The functional strength training program."
+            }
+          },
+          {
+            "id": "4a3b14a831b8b379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improve grip strength for a better deadlift..md",
+                "file": "How to become an engineer..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Improve grip strength for a better deadlift."
+              "title": "How to become an engineer."
             }
           },
           {
-            "id": "164ddadfb3711e97",
+            "id": "815090aef9187b31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The ultimate deadlift technique for strength..md",
+                "file": "How to really read a lot of books..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The ultimate deadlift technique for strength."
+              "title": "How to really read a lot of books."
             }
           },
           {
-            "id": "2235f10911b9ed12",
+            "id": "56ca8151e7788f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The best tips to get a stronger deadlift..md",
+                "file": "How to maximize misery for deep insights..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The best tips to get a stronger deadlift."
+              "title": "How to maximize misery for deep insights."
             }
           },
           {
-            "id": "3f62bf14a2f8d03e",
+            "id": "32b7fd65c9cbe4f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The four rules to become a champ..md",
+                "file": "Create the note on the next subject..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The four rules to become a champ."
+              "title": "Create the note on the next subject."
             }
           },
           {
-            "id": "308d94cfd08ffe68",
+            "id": "3b765e6a21e6df8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The best rep range for powerlifting..md",
+                "file": "The next task to obsess on..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The best rep range for powerlifting."
-            }
-          },
-          {
-            "id": "f1972ab4ed93220f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to bench press without shoulder pain..md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to bench press without shoulder pain."
-            }
-          },
-          {
-            "id": "11879766db8f6cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The best exercises to blow up your bench press..md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The best exercises to blow up your bench press."
-            }
-          },
-          {
-            "id": "2ff711a561663443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Get a stronger bench press with this technique..md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Get a stronger bench press with this technique."
+              "title": "The next task to obsess on."
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -262,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dasboard",
+                "query": "tag:#dashboard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -283,7 +195,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -371,49 +284,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8ad1650ca5372938",
+  "active": "3b765e6a21e6df8a",
   "lastOpenFiles": [
-    "The ultimate deadlift technique for strength..md",
-    "The best tips to get a stronger deadlift..md",
-    "Improve grip strength for a better deadlift..md",
-    "The four rules to become a champ..md",
-    "The best rep range for powerlifting..md",
-    "How to bench press without shoulder pain..md",
-    "The best exercises to blow up your bench press..md",
-    "Get a stronger bench press with this technique..md",
-    "Everything related to the blog site and posts..md",
+    "Daily Schedule.md",
+    "The next task to obsess on..md",
+    "Task Management..md",
+    "Create the note on the next subject..md",
+    "How to maximize misery for deep insights..md",
+    "How to really read a lot of books..md",
+    "How to become an engineer..md",
+    "The functional strength training program..md",
+    "Complex Mathematics & Application In Computer.md",
     "What do I plan to do next to improve myself?.md",
-    "A week of pure brainfuck, complete physics syllabus in a week..md",
+    "How to become a powerlifer..md",
+    "Build a reliable system for quick learning..md",
+    "Documentation and resources..md",
+    "Personal Knowledge Management..md",
+    "How to watch movies with depth..md",
+    "jquery-manual-ref.pdf",
+    "(DOM, Selecting Elements, Changing Content, Styles.pdf",
+    "2018-Summer-Tutorial-Intro-to-Linux.pdf",
+    "Learning the tools required for the app..md",
+    "A Brief History of Time.pdf",
+    "How to read philosophy and more..md",
     "How to easily raise your intelligence..md",
-    "How to master anything in life..md",
-    "Miscellaneous/The Princeton Companion to Mathematic... (Z-Library).pdf",
-    "temp..md",
-    "Powerlifting tips..md",
-    "How to work right after waking up..md",
-    "I hate to talk to most people nowadays..md",
-    "Today I don't feel like doing anything..md",
-    "I have decided to learn how to read..md",
+    "Miscellaneous/PCM.pdf",
+    "How to build a computer.md",
+    "The better knowledge management system..md",
+    "Tons of videos on problem-solving and critical thinking for better studies..md",
+    "MySQL.md",
+    "Quick reference notes created using Perplexity..md",
+    "The perfect deep work ritual..md",
+    "How to annotate a book..md",
     "The metamorphosis, real meaning behind it.md",
-    "Unconfirmed 544314.crdownload",
-    "My plan to compete at powerlifting in 2025..md",
-    "I should learn how to sleep at night..md",
-    "I have decided to write junk..md",
-    "Take the leap, simply get started..md",
-    "Miscellaneous/Thrashed/the blog site..md",
-    "Miscellaneous/Thrashed",
-    "How to focus for 8+ hours a day..md",
-    "Miscellaneous/Mathematica A Secret World of Intuiti... (Z-Library).pdf",
-    "Miscellaneous/Mathematica A Secret World of Intuiti... (Z-Library).pdf.crdownload",
-    "Miscellaneous/The Princeton Companion to Mathematic... (Z-Library).pdf.crdownload",
-    "Miscellaneous/Templates",
-    "Miscellaneous",
-    "The Hidden Language of Computer Hardware and Software (2000) 2.pdf",
-    "Miscellaneous/Attachments/O-LEVEL-MATHS-B-D-formula-booklet.pdf",
-    "Untitled 1.canvas",
+    "jquery-manual-ref.pdf.crdownload",
+    "grd1-en-manual-detailed-linux.pdf",
+    "grd1-en-manual-detailed-linux.pdf.crdownload",
+    "2018-Summer-Tutorial-Intro-to-Linux.pdf.crdownload",
     "Untitled.canvas",
+    "Miscellaneous/Mathematica A Secret World of Intuiti... (Z-Library).pdf",
+    "Untitled 1.canvas",
     "05 Miscellaneous/Attachments/chatgo-q8vqi6imjpifbc4fl8pwubuarisujo5b8pf1wzzzyc.png"
   ]
 }

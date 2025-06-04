@@ -1,0 +1,5 @@
+I am having extremely low self-esteem for the past few days, mainly because I am not photogenic and I found out I look absolutely horrendous and hideos in pictures like very fucking bad and I have found out that I am also somehow very skinny and the body dysmorphia kicked in.
+
+I figured out I can't really do something about it in such a short time, I have decided to increase my lean mass and go upto 94 kilograms and I also plan onto growing my hair and beard out and doing skincare but all that takes a lot of time to even start showing slight results but I'll be patient and I'll do the hard work, I'll keep being consistent and keep doing things everyday for the next 5-months and then I'll create a new plan.
+
+I have done not much today but I intent to code for a long time tomorrow and I also intend to read "The Stranger" for atleast two hours tomorrow, anyways I now bid farewell.

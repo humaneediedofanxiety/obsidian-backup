@@ -1,6 +1,6 @@
 **Tags |** #dashboard #learning
 
-**Time management**, start your day with a dedicated study session and schedule three two-hour blocks into calendar and break down sessions into tiny pomodoro sessions and for priority management, use the [[inverted-pyramid rule]]. 
+**Time management**, start your day with a dedicated study session and schedule three two-hour blocks into calendar and break down sessions into tiny pomodoro sessions and for priority management, use the [[The Inverted Pyramid Rule.|inverted pyramid rule]]. 
 
 **Distraction management**, setup various [[Seperating distractions from productivity.|app blockers]] for mobile and site blockers for laptop and deactivate distracting applications, replace doomscrolling with reading short-form content or youtube videos and movies.
 

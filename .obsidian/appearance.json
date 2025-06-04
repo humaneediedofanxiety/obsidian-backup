@@ -3,5 +3,6 @@
   "cssTheme": "Black",
   "baseFontSize": 16,
   "theme": "obsidian",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

@@ -1,0 +1,8 @@
+- [x] write a new post about fixing my life.
+- [x] review all the important notes and plan new things.
+- [x] make the productivity system and make it simple.
+- [x] build a proper knowledge management system for better indexing.
+- [x] review all the goals and remodify focus and tasks.
+- [ ] review strength training routine and change into super-soldier training.
+- [ ] make the plan to master mathematics and computer engineering.
+- [x] change hell week goals and remodify everything.
