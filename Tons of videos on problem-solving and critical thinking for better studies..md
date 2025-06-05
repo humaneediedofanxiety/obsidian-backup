@@ -4,4 +4,4 @@
 [How to solve complex problems better and more efficiently.](https://www.youtube.com/playlist?list=PLj8OI_sGKIzX-EnCZlueVQaqGJafLiptP)
 
 **References.**
-[[What do I plan to do next to improve myself?]]
+[[The roadmap to all the objectives.]]

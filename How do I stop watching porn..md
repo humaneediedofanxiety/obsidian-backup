@@ -7,5 +7,5 @@ Create a [[The note of absolute recovery.|dedicated note]] to keep records of al
 Start of with these videos [This is the last video you'll need on quitting porn, ever...](https://youtu.be/1MgQFcBRLLo?si=aj8XNfRLxDHAQZRt) and [How to Kick Your Porn Habit in 35 Minutes](https://youtu.be/QJvHglNMsqc?si=ppCB-ISV09TEQdL0) and then move onto some good books and start with easypeasy and then move onto some other ones and for a daily ritual, complete the hypnosis to rewire the brain [Brain Training: Stop Watching Porn](https://youtu.be/MWyOFA9DD1E?si=JzxWe6pK1mK4sV0o)
 
 **References.**
-[[What do I plan to do next to improve myself?]]
+[[The roadmap to all the objectives.]]
 [[The note of absolute recovery.]]

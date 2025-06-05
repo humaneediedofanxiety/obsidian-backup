@@ -8,126 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "560dc4ac913c094a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Build a reliable system for quick learning..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Build a reliable system for quick learning."
-            }
-          },
-          {
-            "id": "c0db6b2efeecbe5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to become a powerlifer..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to become a powerlifer."
-            }
-          },
-          {
-            "id": "809073f1978cc8df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "What do I plan to do next to improve myself?.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "What do I plan to do next to improve myself?"
-            }
-          },
-          {
-            "id": "0dfcef602ab59831",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Complex Mathematics & Application In Computer.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Complex Mathematics & Application In Computer"
-            }
-          },
-          {
-            "id": "91f72a0c9458f49e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "The functional strength training program..md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "The functional strength training program."
-            }
-          },
-          {
-            "id": "4a3b14a831b8b379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to become an engineer..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to become an engineer."
-            }
-          },
-          {
-            "id": "815090aef9187b31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to really read a lot of books..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to really read a lot of books."
-            }
-          },
-          {
-            "id": "56ca8151e7788f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to maximize misery for deep insights..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to maximize misery for deep insights."
-            }
-          },
-          {
-            "id": "32b7fd65c9cbe4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Create the note on the next subject..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Create the note on the next subject."
-            }
-          },
-          {
             "id": "3b765e6a21e6df8a",
             "type": "leaf",
             "state": {
@@ -140,9 +20,65 @@
               "icon": "lucide-file",
               "title": "The next task to obsess on."
             }
+          },
+          {
+            "id": "84c652afa2f4dbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Library..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Library."
+            }
+          },
+          {
+            "id": "a26e51e07ece72c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Theatre..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Theatre."
+            }
+          },
+          {
+            "id": "2b0d28de5012bd7a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.sejda.com/pdf-editor",
+                "title": "Easy to use Online PDF editor",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Easy to use Online PDF editor"
+            }
+          },
+          {
+            "id": "fa6f4e017a9db910",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Stephen_Hawking&action=show-download-screen",
+                "title": "Download as PDF - Wikipedia",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Download as PDF - Wikipedia"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dashboard",
+                "query": "tag:#scheduled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1cb3653d60f1c4eb",
@@ -288,45 +223,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b765e6a21e6df8a",
+  "active": "84c652afa2f4dbcb",
   "lastOpenFiles": [
-    "Daily Schedule.md",
+    "Stephen_Hawking.pdf",
+    "The Library..md",
+    "Albert_Camus.pdf",
+    "Fyodor_Dostoevsky.pdf",
+    "man_from_earth.pdf",
+    "man_from_earth.pdf.crdownload",
+    "fight_club.pdf",
+    "fight_club.pdf.crdownload",
+    "waking_life.pdf",
+    "waking_life.pdf.crdownload",
+    "the_method.pdf",
+    "the_method.pdf.crdownload",
+    "The Theatre..md",
+    "Inception.md",
+    "Interstellar.md",
     "The next task to obsess on..md",
-    "Task Management..md",
-    "Create the note on the next subject..md",
-    "How to maximize misery for deep insights..md",
+    "How to watch movies with depth..md",
     "How to really read a lot of books..md",
+    "How to read philosophy and more..md",
+    "How to annotate a book..md",
+    "The Shawshank Redemption.md",
+    "The Godfather..md",
+    "Create the note on the next subject..md",
+    "Build a reliable system for quick learning..md",
     "How to become an engineer..md",
+    "How to maximize misery for deep insights..md",
+    "Documentation and resources..md",
     "The functional strength training program..md",
     "Complex Mathematics & Application In Computer.md",
-    "What do I plan to do next to improve myself?.md",
+    "The roadmap to all the objectives..md",
     "How to become a powerlifer..md",
-    "Build a reliable system for quick learning..md",
-    "Documentation and resources..md",
-    "Personal Knowledge Management..md",
-    "How to watch movies with depth..md",
-    "jquery-manual-ref.pdf",
-    "(DOM, Selecting Elements, Changing Content, Styles.pdf",
-    "2018-Summer-Tutorial-Intro-to-Linux.pdf",
+    "How to build a 90s clone of facebook..md",
     "Learning the tools required for the app..md",
-    "A Brief History of Time.pdf",
-    "How to read philosophy and more..md",
-    "How to easily raise your intelligence..md",
-    "Miscellaneous/PCM.pdf",
-    "How to build a computer.md",
-    "The better knowledge management system..md",
-    "Tons of videos on problem-solving and critical thinking for better studies..md",
-    "MySQL.md",
-    "Quick reference notes created using Perplexity..md",
-    "The perfect deep work ritual..md",
-    "How to annotate a book..md",
-    "The metamorphosis, real meaning behind it.md",
-    "jquery-manual-ref.pdf.crdownload",
-    "grd1-en-manual-detailed-linux.pdf",
-    "grd1-en-manual-detailed-linux.pdf.crdownload",
-    "2018-Summer-Tutorial-Intro-to-Linux.pdf.crdownload",
+    "Daily Schedule.md",
+    "Task Management..md",
+    "Personal Knowledge Management..md",
     "Untitled.canvas",
-    "Miscellaneous/Mathematica A Secret World of Intuiti... (Z-Library).pdf",
     "Untitled 1.canvas",
     "05 Miscellaneous/Attachments/chatgo-q8vqi6imjpifbc4fl8pwubuarisujo5b8pf1wzzzyc.png"
   ]
