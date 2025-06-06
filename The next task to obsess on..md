@@ -1,10 +1,12 @@
 **Tags |** #dashboard #self-improvement 
 
-- [x] Go through the PHP Documentation and code for 3-hours.
-- [x] Review all your notes and setup new goals.
-- [x] Create the [[Daily Schedule]]
+- [ ] Learn about system design, complete a course.
+- [ ] Design system-architecture for task-management software.
+- [ ] Learn the required concepts for backend & database systems.
+- [ ] Code the application and deploy on a server.
 - [ ] Create the better PKM system & setup library.
      - [x] Add all the movies and books into the tables.
+     - [ ] Edit PDFs for the remaining movies.
      - [ ] Learn more about database plugin and create. 
      - [ ] Create source-notes and reference-notes.
      - [ ] Update [[Personal Knowledge Management.]]

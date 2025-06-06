@@ -1,0 +1,5 @@
+Everything seems to be meaningless, the days pass by infuriatingly slow, I do not seem to enjoy it very much, I think it must be like this for a while and maybe I will experience the pleasant feelings after a while, if that is so I am more than happy to do all these repetitive tasks for however long it takes. Maybe life will get better. I don't know.
+
+It's raining outdoors and the weather is gloomy, I have to start earning and help my family but I also wish to become an athlete, I also wish to do a lot of different things but it seems so that I am unable to do anything, maybe I will work hard and become a good freelance developer and have a steady income and train besides it, when we are well of I could very much focus on sports. 
+
+I have to go train, shower and eat and then read some books and I also have to travel, I must go now. It was good talking.

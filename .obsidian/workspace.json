@@ -22,63 +22,75 @@
             }
           },
           {
-            "id": "84c652afa2f4dbcb",
+            "id": "32b7fd65c9cbe4f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Library..md",
+                "file": "Create the note on the next subject..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Library."
+              "title": "Create the note on the next subject."
             }
           },
           {
-            "id": "a26e51e07ece72c6",
+            "id": "b54a1888a9e0913a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Theatre..md",
+                "file": "How to become an engineer..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Theatre."
+              "title": "How to become an engineer."
             }
           },
           {
-            "id": "2b0d28de5012bd7a",
+            "id": "cf5ab28351736861",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "excalidraw",
               "state": {
-                "url": "https://www.sejda.com/pdf-editor",
-                "title": "Easy to use Online PDF editor",
-                "mode": "webview"
+                "file": "The roadmap to all the objectives..md"
               },
-              "icon": "globe-2",
-              "title": "Easy to use Online PDF editor"
+              "icon": "excalidraw-icon",
+              "title": "The roadmap to all the objectives."
             }
           },
           {
-            "id": "fa6f4e017a9db910",
+            "id": "680d7fc730a1195f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=Stephen_Hawking&action=show-download-screen",
-                "title": "Download as PDF - Wikipedia",
-                "mode": "webview"
+                "file": "Documentation and resources..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Download as PDF - Wikipedia"
+              "icon": "lucide-file",
+              "title": "Documentation and resources."
+            }
+          },
+          {
+            "id": "b45a21afc4a9a7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily Schedule"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#scheduled",
+                "query": "tag:#dashboard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,44 +235,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "84c652afa2f4dbcb",
+  "active": "b45a21afc4a9a7f6",
   "lastOpenFiles": [
-    "Stephen_Hawking.pdf",
+    "Untitled.md",
+    "Daily Schedule.md",
+    "The next task to obsess on..md",
+    "system_design.pdf",
+    "system-design.pdf",
+    "system_design.pdf.crdownload",
+    "Documentation and resources..md",
+    "osdc_cheatsheet-mariadb.pdf",
+    "osdc_cheatsheet-mariadb.pdf.crdownload",
+    "Create the note on the next subject..md",
+    "How to become an engineer..md",
+    "The roadmap to all the objectives..md",
+    "Drawing 2025-06-05 12.22.17.excalidraw.md",
     "The Library..md",
-    "Albert_Camus.pdf",
-    "Fyodor_Dostoevsky.pdf",
-    "man_from_earth.pdf",
-    "man_from_earth.pdf.crdownload",
-    "fight_club.pdf",
-    "fight_club.pdf.crdownload",
-    "waking_life.pdf",
-    "waking_life.pdf.crdownload",
-    "the_method.pdf",
-    "the_method.pdf.crdownload",
     "The Theatre..md",
+    "Richard_Linklater.pdf",
+    "her_movie (1).pdf",
+    "Stanley_Kubrick.pdf",
+    "Francis_Ford_Coppola.pdf",
+    "Pier_Paolo_Pasolini.pdf",
+    "The Shawshank Redemption.md",
     "Inception.md",
     "Interstellar.md",
-    "The next task to obsess on..md",
     "How to watch movies with depth..md",
     "How to really read a lot of books..md",
     "How to read philosophy and more..md",
     "How to annotate a book..md",
-    "The Shawshank Redemption.md",
     "The Godfather..md",
-    "Create the note on the next subject..md",
     "Build a reliable system for quick learning..md",
-    "How to become an engineer..md",
     "How to maximize misery for deep insights..md",
-    "Documentation and resources..md",
     "The functional strength training program..md",
     "Complex Mathematics & Application In Computer.md",
-    "The roadmap to all the objectives..md",
     "How to become a powerlifer..md",
     "How to build a 90s clone of facebook..md",
     "Learning the tools required for the app..md",
-    "Daily Schedule.md",
     "Task Management..md",
-    "Personal Knowledge Management..md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "05 Miscellaneous/Attachments/chatgo-q8vqi6imjpifbc4fl8pwubuarisujo5b8pf1wzzzyc.png"
