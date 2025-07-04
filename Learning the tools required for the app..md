@@ -4,7 +4,6 @@
 - [ ] Learn and master the fundamentals of [[Documentation and resources.|PHP.]]
 - [ ] Learn the basics of [[Documentation and resources.|MySQL]] and master database systems. 
 - [ ] Build a real-time communication web-app using [[Documentation and resources.|PHP, MySQL & jQuery.]]
-- [ ] Finish all tasks before half-way of June.
 
 **References.**
 [[How to build a 90s clone of facebook.]]

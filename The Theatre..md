@@ -14,7 +14,7 @@
 | [[The Godfather]]                                          | [[Francis_Ford_Coppola.pdf\|Francis Ford Coppola]]                               | 1972 | 9.2    | #completed |
 | [[the_shawshank_redemption.pdf\|The Shawshank Redemption]] | [[Frank_Darabont.pdf\|Frank Darabont]]                                           | 1994 | 9.3    | #completed |
 | [[The Social Network]]                                     | [[David_Fincher.pdf\|David Fincher]]                                             | 2010 | 7.8    | #completed |
-| [[American Psycho]]                                        | [[Mary_Harron.pdf\|Mary Harron]]                                                 | 2000 | 7.6    | #completed |
+| [[american_psycho.pdf\|American Psycho]]                   | [[Mary_Harron.pdf\|Mary Harron]]                                                 | 2000 | 7.6    | #completed |
 | [[the_lighthouse.pdf\|The Lighthouse]]                     | [[Robert_Eggers.pdf\|Robert Eggers]]                                             | 2019 | 7.9    | #completed |
 | [[taxi_driver.pdf\|Taxi Driver]]                           | [[Martin_Scorsese.pdf\|Martin Scorsese]]                                         | 1976 | 8.2    | #completed |
 | [[La La Land]]                                             | [[Damien_Chazelle.pdf\|Damien Chazelle]]                                         | 2016 | 8.0    | #completed |
@@ -22,7 +22,7 @@
 | [[man_from_earth.pdf\|Man from Earth]]                     | [[Richard_Schenkman.pdf\|Richard Schenkman]]                                     | 2007 | 7.9    | #completed |
 | [[Man from Earth: Holoscene]]                              | [[Richard_Schenkman.pdf\|Richard Schenkman]]                                     | 2017 | 7.5    | #scheduled |
 | [[The Butterfly Effect]]                                   | [[Eric_Bress.pdf\|Eric Bress]], [[J_Mackye_Gruber.pdf\|J. Mackye Gruber]]        | 2004 | 7.6    | #completed |
-| [[Into the Wild]]                                          | [[Sean_Penn.pdf\|Sean Penn]]                                                     | 2007 | 8.1    | #completed |
+| [[into_the_wild.pdf\|Into the Wild]]                       | [[Sean_Penn.pdf\|Sean Penn]]                                                     | 2007 | 8.1    | #completed |
 | [[Eternal Sunshine of the Spotless Mind]]                  | [[Michel_Gondry.pdf\|Michel Gondry]]                                             | 2004 | 8.3    | #completed |
 | [[Forrest Gump]]                                           | [[Robert_Zemeckis.pdf\|Robert Zemeckis]]                                         | 1994 | 8.8    | #completed |
 | [[Good Will Hunting]]                                      | [[Gus_Van_Sant.pdf\|Gus Van Sant]]                                               | 1997 | 8.3    | #completed |
@@ -33,7 +33,7 @@
 | [[500 Days of Summer]]                                     | [[Marc_Webb.pdf\|Marc Webb]]                                                     | 2009 | 7.7    | #completed |
 | [[Before Sunrise]]                                         | [[Richard_Linklater.pdf\|Richard Linklater]]                                     | 1995 | 8.1    | #completed |
 | [[Before Sunset]]                                          | [[Richard_Linklater.pdf\|Richard Linklater]]                                     | 2004 | 8.1    | #completed |
-| [[Dead Poet's Society]]                                    | [[Peter_Weir.pdf\|Peter Weir]]                                                   | 1989 | 8.1    | #completed |
+| [[dead_poets_society.pdf\|Dead Poet's Society]]            | [[Peter_Weir.pdf\|Peter Weir]]                                                   | 1989 | 8.1    | #completed |
 | [[Bullet Train]]                                           | [[David_Leitch.pdf\|David Leitch]]                                               | 2022 | 7.3    | #completed |
 | [[The Pursuit of Happyness]]                               | [[Gabriele_Muccino.pdf\|Gabriele Muccino]]                                       | 2006 | 8.0    | #completed |
 | [[Blue Valentine]]                                         | [[Derek_Cianfrance.pdf\|Derek Cianfrance]]                                       | 2010 | 7.3    | #scheduled |

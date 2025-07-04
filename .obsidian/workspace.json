@@ -22,75 +22,34 @@
             }
           },
           {
-            "id": "32b7fd65c9cbe4f0",
+            "id": "84c652afa2f4dbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Create the note on the next subject..md",
-                "mode": "source",
+                "file": "The Library..md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create the note on the next subject."
+              "title": "The Library."
             }
           },
           {
-            "id": "b54a1888a9e0913a",
+            "id": "a26e51e07ece72c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to become an engineer..md",
-                "mode": "source",
+                "file": "The Theatre..md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to become an engineer."
-            }
-          },
-          {
-            "id": "cf5ab28351736861",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "The roadmap to all the objectives..md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "The roadmap to all the objectives."
-            }
-          },
-          {
-            "id": "680d7fc730a1195f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation and resources..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Documentation and resources."
-            }
-          },
-          {
-            "id": "b45a21afc4a9a7f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Schedule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Schedule"
+              "title": "The Theatre."
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dashboard",
+                "query": "path:Miscellaneous/Thrashed  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,44 +193,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b45a21afc4a9a7f6",
+  "active": "3b765e6a21e6df8a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Daily Schedule.md",
-    "The next task to obsess on..md",
-    "system_design.pdf",
-    "system-design.pdf",
-    "system_design.pdf.crdownload",
-    "Documentation and resources..md",
-    "osdc_cheatsheet-mariadb.pdf",
-    "osdc_cheatsheet-mariadb.pdf.crdownload",
-    "Create the note on the next subject..md",
-    "How to become an engineer..md",
-    "The roadmap to all the objectives..md",
-    "Drawing 2025-06-05 12.22.17.excalidraw.md",
     "The Library..md",
+    "The next task to obsess on..md",
     "The Theatre..md",
-    "Richard_Linklater.pdf",
-    "her_movie (1).pdf",
-    "Stanley_Kubrick.pdf",
-    "Francis_Ford_Coppola.pdf",
-    "Pier_Paolo_Pasolini.pdf",
-    "The Shawshank Redemption.md",
-    "Inception.md",
-    "Interstellar.md",
-    "How to watch movies with depth..md",
-    "How to really read a lot of books..md",
-    "How to read philosophy and more..md",
-    "How to annotate a book..md",
-    "The Godfather..md",
-    "Build a reliable system for quick learning..md",
+    "How to glow up in 6-months..md",
+    "Train every day of the week..md",
+    "MIT_OCW_CS_Curriculum_Roadmap.pdf",
+    "Complex Mathematics & Application In Computer.md",
+    "MIT_OCW_CS_Curriculum_Roadmap.pdf.crdownload",
+    "The roadmap to all the objectives..md",
+    "Create the note on the next subject..md",
     "How to maximize misery for deep insights..md",
     "The functional strength training program..md",
-    "Complex Mathematics & Application In Computer.md",
+    "Documentation and resources..md",
+    "How to really read a lot of books..md",
     "How to become a powerlifer..md",
-    "How to build a 90s clone of facebook..md",
+    "Build a reliable system for quick learning..md",
+    "The Inverted Pyramid..md",
+    "Daily Schedule.md",
     "Learning the tools required for the app..md",
+    "How to build a 90s clone of facebook..md",
+    "How to become an engineer..md",
+    "Train your focus like a genius..md",
+    "Build rituals over habits..md",
+    "10 years of lifting advice in 17 minutes..md",
+    "How to train core football skills..md",
+    "Places to go..md",
+    "notes_from_underground.pdf",
+    "white_nights.pdf",
+    "the_metamorphosis.pdf",
+    "task_management_app_design.pdf",
+    "system_design.pdf",
     "Task Management..md",
+    "task_management_app_design.pdf.crdownload",
+    "system-design.pdf",
+    "salò_movie (1).pdf",
+    "diagram-export-6-9-2025-8_18_08-PM.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "05 Miscellaneous/Attachments/chatgo-q8vqi6imjpifbc4fl8pwubuarisujo5b8pf1wzzzyc.png"

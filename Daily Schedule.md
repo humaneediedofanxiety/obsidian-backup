@@ -2,10 +2,10 @@
 
 **Mind Block** - Dedicate this block to activities to acquire mental stimulus.
 
-- [x] **Prepare** for the day, freshen up and review all your tasks.
-- [x] **Complete** the highest-priority task from your [[The next task to obsess on.|tasks.]]
+- [ ] **Prepare** for the day, freshen up and review all your tasks.
+- [ ] **Complete** the highest-priority task from your [[The next task to obsess on.|tasks.]]
 - [ ] **Solve** atleast 10-15 mathematical problems to sharpen mind.
-- [x] **Rest** for a while, take a power nap to recharge.
+- [ ] **Rest** for a while, take a power nap to recharge.
 
 **Body Block** - Dedicate this block to activities to enhance the body.
 
